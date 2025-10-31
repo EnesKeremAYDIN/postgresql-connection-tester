@@ -1,6 +1,6 @@
 # PostgreSQL Connection Tester
 
-A comprehensive PostgreSQL connection testing and analysis toolkit written in Python. This tool allows you to test database connections, analyze server performance, and gather detailed information about your PostgreSQL instances using only native Python libraries and psycopg2.
+Comprehensive PostgreSQL connection testing and analysis toolkit written in Python. This tool allows you to test database connections, analyze server performance, and gather detailed information about your PostgreSQL instances using only native Python libraries and psycopg2.
 
 ## Features
 
@@ -71,5 +71,6 @@ postgresql://username:password@hostname:port/database?sslmode=prefer
 - **Safe Error Reporting**: No sensitive data exposure
 
 ## Disclaimer
+
 
 This tool is intended for database administrators, developers, and system administrators to test and analyze PostgreSQL connections. Use responsibly and only on databases you have permission to access. Always ensure you have proper authorization before testing database connections.
